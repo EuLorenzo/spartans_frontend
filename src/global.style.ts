@@ -4,6 +4,8 @@ export const GlobalStyles = createGlobalStyle`
     :root{
         --white: #fff;
         --blue-500: blue;
+
+        --Jost-font: "Jost", sans-serif;
     }
 
     body{

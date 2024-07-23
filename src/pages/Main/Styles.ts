@@ -2,7 +2,7 @@ import styled from "styled-components"
 import teste from "../../assets/time_01.jpg"
 
 export const FundoImg = styled.div`
-    height: 83vh;
+    height: 80vh;
     background-color: #2d3091;
 `
 
