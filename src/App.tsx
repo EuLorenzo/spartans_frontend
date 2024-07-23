@@ -1,14 +1,17 @@
-import { BrowserRouter } from "react-router-dom"
-import { Router } from "./Router"
 import { GlobalStyles } from "./global.style"
+import { Header } from './components/Header/Header.tsx'
+import { Outlet } from "react-router-dom"
 
 export function App() {
   return (
-    <BrowserRouter>
-    
-      <Router />
+    <>
+      <Header />
+      <Outlet />
       <GlobalStyles />
-    </BrowserRouter>
+    </>
+  
+      
+
 
     
   )
