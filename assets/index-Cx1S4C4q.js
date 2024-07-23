@@ -73,7 +73,7 @@ Error generating stack: `+o.message+`
     justify-content: center;
     align-items: center;
 
-`,b0="/assets/spartans_logo-Cy_AY8FX.png";function ev(){return X.jsx(q0,{children:X.jsx("img",{src:b0,width:"100px",alt:"Logo do Spartans"})})}function tv(){return X.jsxs("div",{children:[X.jsx(ev,{}),X.jsx(Qm,{})]})}const nv="/assets/time_01-BwxgpATu.jpg",rv=Po.div`
+`,b0="/spartans_frontend/assets/spartans_logo-Cy_AY8FX.png";function ev(){return X.jsx(q0,{children:X.jsx("img",{src:b0,width:"100px",alt:"Logo do Spartans"})})}function tv(){return X.jsxs("div",{children:[X.jsx(ev,{}),X.jsx(Qm,{})]})}const nv="/spartans_frontend/assets/time_01-BwxgpATu.jpg",rv=Po.div`
     height: 75vh;
     background-color: #2d3091;
 `,lv=Po.div`
